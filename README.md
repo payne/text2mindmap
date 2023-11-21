@@ -1,4 +1,4 @@
-This is an outdated copy of https://github.com/TobLoef/text2mindmap, which was the original
+This is an outdated copy of https://github.com/TobLoef/text2mindmap, which was the original.
 
 
 # Text2MindMap
